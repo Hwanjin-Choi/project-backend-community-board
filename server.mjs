@@ -4,6 +4,7 @@ import { Low } from "lowdb";
 import { JSONFile } from "lowdb/node";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
+import cors from "cors";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -18,6 +19,7 @@ await db.read();
 const app = express();
 const PORT = 9000;
 
+app.use(cors()); // CORS 미들웨어를 여기에 적용
 app.use(bodyParser.json());
 
 // 회원가입 API
