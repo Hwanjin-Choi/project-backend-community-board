@@ -4,8 +4,8 @@
       "id": 1743943649095,
       "username": "ajtwoddl0424",
       "email": "ajtwoddl0424@gmail.com",
-      "password": "Chlghkswls23!",
-      "nickname": "nickname"
+      "password": "1234",
+      "nickname": "닉네임"
     },
     {
       "id": 1743954004546,
@@ -20,6 +20,76 @@
       "email": "test1@gmail.com",
       "password": "Chlghkswls23!",
       "nickname": "nickname1"
+    },
+    {
+      "id": 1744024693014,
+      "username": "admin",
+      "email": "moonuche0424@gmail.com",
+      "password": "Chlghkswls23!",
+      "nickname": "nini"
+    },
+    {
+      "id": 1744025038211,
+      "username": "admin1",
+      "email": "admin@gmail.com",
+      "password": "Chlghkswls23!",
+      "nickname": "asdf"
+    },
+    {
+      "id": 1744025317941,
+      "username": "admin2",
+      "email": "admin2@gmail.com",
+      "password": "Chlghkswls23!",
+      "nickname": "asdfqwer"
+    },
+    {
+      "id": 1744025350957,
+      "username": "admin3",
+      "email": "admin3@gmail.com",
+      "password": "Chlghkswls23!",
+      "nickname": "adsfqwer2"
+    },
+    {
+      "id": 1744025659219,
+      "username": "admin4",
+      "email": "admin4@gmail.com",
+      "password": "Chlghkswls23!",
+      "nickname": "adsfqwer2"
+    },
+    {
+      "id": 1744025690265,
+      "username": "ajtwoddl042413313",
+      "email": "ajtwoddl042443@gmail.com",
+      "password": "Chlghkswls23!",
+      "nickname": "ffds"
+    },
+    {
+      "id": 1744611806803,
+      "username": "jinchoi980424",
+      "email": "jinchoi980424@gmail.com",
+      "password": "3qigp45g",
+      "nickname": "Jin Choi",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocK5xHWmV77q5QzpPE-7k08BWpYIwEFCJRJ6AWp-6XKHTH3A=s96-c"
+    },
+    {
+      "id": 1744612785360,
+      "username": "Hwanjin-Choi",
+      "email": "hwanjinchoi0424@gmail.com",
+      "password": "mhxj0soo",
+      "nickname": "Hwanjin-Choi",
+      "picture": "https://avatars.githubusercontent.com/u/68840464?v=4"
+    },
+    {
+      "id": 1747380281155,
+      "username": "testaccount",
+      "password": "Chlghkswls23!",
+      "nickname": "닉네임입니다"
+    },
+    {
+      "id": 1747380632558,
+      "username": "testaccount1",
+      "password": "Chlghkswls23!",
+      "nickname": "닉네임입니다"
     }
   ]
 }
